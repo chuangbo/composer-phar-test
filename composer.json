@@ -1,0 +1,16 @@
+{
+    "name": "chuangbo/composer-phar-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Li Chuangbo",
+            "email": "im@chuangbo.li"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "ISPAPI.phar"
+        ]
+    }
+}
