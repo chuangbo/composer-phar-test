@@ -4,3 +4,6 @@ This demostrate the `composer` issue of loading phar file which is fixed in [thi
 
 See [composer.json](composer.json) and [vendor/composer/autoload_static.php](vendor/composer/autoload_static.php)
 
+## Pull Request Status
+
+https://github.com/composer/composer/pull/6378
