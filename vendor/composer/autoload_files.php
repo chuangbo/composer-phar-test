@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'e289fcbedabd4e7eac14c3f239bd29e1' => 'phar://' . $baseDir . '/ISPAPI.phar',
+    'e289fcbedabd4e7eac14c3f239bd29e1' => $baseDir . '/ISPAPI.phar',
 );

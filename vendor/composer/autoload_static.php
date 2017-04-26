@@ -7,7 +7,7 @@ namespace Composer\Autoload;
 class ComposerStaticInit352885a1a954b5eb6c828b43a42e6493
 {
     public static $files = array (
-        'e289fcbedabd4e7eac14c3f239bd29e1' => 'phar:///Users/cat/github/composer-phar-test/ISPAPI.phar',
+        'e289fcbedabd4e7eac14c3f239bd29e1' => __DIR__ . '/../..' . '/ISPAPI.phar',
     );
 
     public static function getInitializer(ClassLoader $loader)
